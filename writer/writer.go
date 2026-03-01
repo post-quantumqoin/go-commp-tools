@@ -8,8 +8,8 @@ import (
 	"github.com/ipfs/go-cid"
 	"golang.org/x/xerrors"
 
-	"github.com/filecoin-project/go-padreader"
 	"github.com/post-quantumqoin/core-types/abi"
+	"github.com/post-quantumqoin/go-paddedreader"
 	ffi "github.com/post-quantumqoin/qvm"
 
 	"github.com/post-quantumqoin/go-commp-tools/ffiwrapper"
