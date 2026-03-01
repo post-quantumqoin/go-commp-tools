@@ -3,9 +3,9 @@ package zerocomm
 import (
 	"math/bits"
 
-	commcid "github.com/filecoin-project/go-fil-commcid"
 	"github.com/ipfs/go-cid"
 	"github.com/post-quantumqoin/core-types/abi"
+	commcid "github.com/post-quantumqoin/go-qoin-commcid"
 )
 
 const Levels = 37

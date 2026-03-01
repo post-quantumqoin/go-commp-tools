@@ -8,9 +8,9 @@ import (
 	"io/ioutil"
 	"testing"
 
+	"github.com/post-quantumqoin/go-paddedreader"
 	"github.com/stretchr/testify/require"
 
-	"github.com/filecoin-project/go-padreader"
 	"github.com/post-quantumqoin/core-types/abi"
 
 	"github.com/post-quantumqoin/go-commp-tools/ffiwrapper"

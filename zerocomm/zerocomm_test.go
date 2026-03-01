@@ -6,9 +6,9 @@ import (
 	"io"
 	"testing"
 
-	commcid "github.com/filecoin-project/go-fil-commcid"
 	"github.com/ipfs/go-cid"
 	abi "github.com/post-quantumqoin/core-types/abi"
+	commcid "github.com/post-quantumqoin/go-qoin-commcid"
 
 	"github.com/post-quantumqoin/go-commp-tools/ffiwrapper"
 	"github.com/post-quantumqoin/go-commp-tools/zerocomm"
